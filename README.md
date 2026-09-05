@@ -46,9 +46,10 @@ The project focuses on understanding and implementing fundamental verification c
 
 The DUT is an **APB Master**. Since the DUT requires an APB Slave to respond to its transactions, the verification environment implements the slave behavior.
 
-### High-Level Architecture
+## TB Architecture
 
-to be added
+<img width="800"  alt="APB Master TB" src="https://github.com/user-attachments/assets/41a6ef3c-3c58-460b-98ce-e54c72e075d5" />
+
 
 # 3. APB Protocol Overview
 
