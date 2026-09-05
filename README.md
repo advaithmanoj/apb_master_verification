@@ -48,7 +48,7 @@ The DUT is an **APB Master**. Since the DUT requires an APB Slave to respond to 
 
 ## TB Architecture
 
-<img width="800"  alt="APB Master TB" src="https://github.com/user-attachments/assets/41a6ef3c-3c58-460b-98ce-e54c72e075d5" />
+<img width="600"  alt="APB Master TB" src="https://github.com/user-attachments/assets/41a6ef3c-3c58-460b-98ce-e54c72e075d5" />
 
 
 # 3. APB Protocol Overview
